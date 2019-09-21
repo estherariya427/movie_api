@@ -1,0 +1,45 @@
+URL: /
+Timestamp: Sat Sep 21 2019 16:17:56 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:21:00 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:23:31 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:30:58 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:46:39 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:48:38 GMT-0700 (Pacific Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Sat Sep 21 2019 16:48:39 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:48:57 GMT-0700 (Pacific Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Sat Sep 21 2019 16:48:57 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:49:01 GMT-0700 (Pacific Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Sat Sep 21 2019 16:49:02 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:55:16 GMT-0700 (Pacific Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Sat Sep 21 2019 16:55:17 GMT-0700 (Pacific Daylight Time)
+
+URL: /
+Timestamp: Sat Sep 21 2019 16:55:19 GMT-0700 (Pacific Daylight Time)
+
+URL: /favicon.ico
+Timestamp: Sat Sep 21 2019 16:55:19 GMT-0700 (Pacific Daylight Time)
+
